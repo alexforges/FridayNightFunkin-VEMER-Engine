@@ -12,4 +12,6 @@
   * the state folder who can make the custom menus (in lua format and in hx)
   * in 'pack.json' you can enabla dark mode in window
   * you can create 3d object and add in speacial folder 'models'
+  ## in 'mods' and source code
+  * you can change offsets icon from charach
 
