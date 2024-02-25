@@ -1,7 +1,4 @@
-# FridayNightFunkin'VEMER Engine
- the Psych Engine but not only making modding better and faster
-
-![](https://github.com/alexforges/theImagesDemonstartion/blob/main/logoVEMER-Engine.jpg)
-### adding featuares from:
-  * CodeName Engine(3D system, and optimization),
-  * Grafex Engine (icon system and not only),
+# !WARNING!
+ this engine scrapted bcs the psych version 0.7.1h with SScript 4.0.1
+ * if you want burn assfrom ass hole codding and many bugs to wellcome
+   ![](https://github.com/alexforges/FridayNightFunkin-VEMER-Engine/blob/old(scrapped)/git/cover.gif)
