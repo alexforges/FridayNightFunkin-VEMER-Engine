@@ -3,7 +3,7 @@
 
 ![](https://github.com/alexforges/theImagesDemonstartion/blob/main/logoVEMER-Engine.jpg)
 ### adding featuares from:
-  * CodeName Engine(3D system, and optimization),
+  * CodeName Engine(3D system, and litle optimization),
   * Grafex Engine (icon system and not only).
 
 # in this engine from my hands i added moddings feature
