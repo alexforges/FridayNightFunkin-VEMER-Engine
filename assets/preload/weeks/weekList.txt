@@ -1,5 +1,3 @@
-mineWeek
-mineBonus
 tutorial
 week1
 week2
