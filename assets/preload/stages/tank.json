@@ -1,0 +1,18 @@
+{
+	"directory": "week7",
+	"defaultZoom": 0.9,
+	"stageUI": "",
+
+	"boyfriend": [810, 100],
+	"girlfriend": [200, 65],
+	"opponent": [20, 100],
+	"mom": [230,80],
+	"hide_mom": true,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_mom": [0, 0],
+	"camera_speed": 1,
+	"cameraMoveNote": true
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-disc.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CycleSplash blue 10000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 10001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 10002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 10003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 10004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash blue 20000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 20001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 20002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 20003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash blue 20004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash green 1 0000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 1 0001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 1 0002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 1 0003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 1 0004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash green 20000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 20001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 20002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 20003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash green 20004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash purple 10000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 10001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 10002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 10003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 10004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash purple 20000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 20001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 20002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 20003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash purple 20004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash red 10000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 10001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 10002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 10003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 10004" x="3" y="174" width="180" height="172"/>
+	<SubTexture name="CycleSplash red 20000" x="3" y="3" width="65" height="63" frameX="-57" frameY="-54" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 20001" x="71" y="3" width="85" height="82" frameX="-47" frameY="-45" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 20002" x="159" y="3" width="112" height="108" frameX="-34" frameY="-32" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 20003" x="274" y="3" width="176" height="168" frameX="-2" frameY="-2" frameWidth="180" frameHeight="172"/>
+	<SubTexture name="CycleSplash red 20004" x="3" y="174" width="180" height="172"/>
+</TextureAtlas>

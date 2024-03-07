@@ -1,0 +1,1 @@
+typedef Main = mainGame.backend.system.Main;
